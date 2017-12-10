@@ -1,0 +1,14 @@
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\bin\Debug\M4-Server.exe.config
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\M4-Server.exe
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\M4-Server.pdb
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\Server.Form1.resources
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\bin\Debug\M4-Server.exe
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\bin\Debug\M4-Server.pdb
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\bin\Debug\Common.dll
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\bin\Debug\Common.pdb
+C:\Users\Noam\Desktop\Nim gameplay - client server\Server\M4-Server\bin\Debug\M4-Server.exe.config
+C:\Users\Noam\Desktop\Nim gameplay - client server\Server\M4-Server\obj\Debug\M4-Server.exe
+C:\Users\Noam\Desktop\Nim gameplay - client server\Server\M4-Server\obj\Debug\M4-Server.pdb

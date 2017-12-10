@@ -1,0 +1,12 @@
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\bin\Debug\M4-Server.exe.config
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\bin\Debug\M4-Server.exe
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\bin\Debug\M4-Server.pdb
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\obj\Debug\M4-Server.csprojResolveAssemblyReference.cache
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\obj\Debug\M4_Server.Form1.resources
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\obj\Debug\M4_Server.Properties.Resources.resources
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\obj\Debug\M4-Server.csproj.GenerateResource.Cache
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\obj\Debug\M4-Server.exe
+C:\Users\Noam\VisualStodio Projects\M4-Server\M4-Server\obj\Debug\M4-Server.pdb
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\bin\Debug\M4-Server.exe.config
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\M4-Server.exe
+C:\Users\Noam\Desktop\MAT4\Server\M4-Server\obj\Debug\M4-Server.pdb

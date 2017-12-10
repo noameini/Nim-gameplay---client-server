@@ -1,0 +1,15 @@
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\bin\Debug\MAT2.exe.config
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\obj\Debug\MAT2.exe
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\obj\Debug\MAT2.pdb
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\bin\Debug\MAT2.exe
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\bin\Debug\MAT2.pdb
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\bin\Debug\Common.dll
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\bin\Debug\Common.pdb
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\obj\Debug\Client.Form1.resources
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Noam\Desktop\MAT4\Client\MAT2\obj\Debug\Client.UserControl1.resources
+C:\Users\Noam\Desktop\Nim gameplay - client server\Client\MAT2\bin\Debug\MAT2.exe.config
+C:\Users\Noam\Desktop\Nim gameplay - client server\Client\MAT2\obj\Debug\MAT2.exe
+C:\Users\Noam\Desktop\Nim gameplay - client server\Client\MAT2\obj\Debug\MAT2.pdb
